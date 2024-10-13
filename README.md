@@ -1,4 +1,4 @@
-# Neural-Cine: Intelligent Film Recommendation System
+# Neural-Cine: Intelligent Film Recommendation Engine
 
 ()
 
